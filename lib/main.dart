@@ -37,7 +37,7 @@ class Home extends StatelessWidget {
                     Icon(Icons.school,size: 40,),
                     SizedBox(width: 25,),
                     
-                    Text("School Name",style: TextStyle(fontSize: 20),)
+                    Text("B.Tech in CSE",style: TextStyle(fontSize: 20),)
                   ]
                 ),
                 SizedBox(height: 10,),
@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
                   children: <Widget>[
                     Icon(Icons.computer_rounded,size: 40,),
                     SizedBox(width: 25,),
-                    Text("School Name",style: TextStyle(fontSize: 20),)
+                    Text("Portfolio App",style: TextStyle(fontSize: 20),)
                   ],
                 ),
                 SizedBox(height: 10,),
@@ -53,7 +53,7 @@ class Home extends StatelessWidget {
                   children: <Widget>[
                     Icon(Icons.location_pin,size: 40,),
                     SizedBox(width: 25,),
-                    Text("School Name",style: TextStyle(fontSize: 20),)
+                    Text("Chennai",style: TextStyle(fontSize: 20),)
                   ],
                 ),
                 SizedBox(height: 10,),
@@ -61,7 +61,7 @@ class Home extends StatelessWidget {
                   children: <Widget>[
                     Icon(Icons.email,size: 40,),
                     SizedBox(width: 25,),
-                    Text("School Name",style: TextStyle(fontSize: 20),)
+                    Text("rupajps4@gmail.com",style: TextStyle(fontSize: 20),)
                   ],
                 ),
                 SizedBox(height: 10,),
@@ -69,7 +69,7 @@ class Home extends StatelessWidget {
                   children: <Widget>[
                     Icon(Icons.phone,size: 40,),
                     SizedBox(width: 25,),
-                    Text("School Name",style: TextStyle(fontSize: 20),)
+                    Text("+91 8134094476",style: TextStyle(fontSize: 20),)
                   ],
                 ),
                 SizedBox(height: 10,),
