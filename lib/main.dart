@@ -16,7 +16,7 @@ class Home extends StatelessWidget {
           children: <Widget>[
            Row(
             children: <Widget>[
-              CircleAvatar(radius: 60,),
+              CircleAvatar(radius: 60,backgroundImage: AssetImage("images/1.jpg"),),
               SizedBox(width: 50,),
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
